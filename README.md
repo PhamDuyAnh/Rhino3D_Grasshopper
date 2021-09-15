@@ -16,6 +16,11 @@ Archive of documents, examples about Rhino3D &amp; Grasshopper
 ![Point attractor rectangle rotary](https://github.com/PhamDuyAnh/Rhino3D_Grasshopper/blob/main/Point%20Attractor%20-%20Rectangle%20Rotary.jpg)
 <https://github.com/PhamDuyAnh/Rhino3D_Grasshopper/blob/main/Point%20Attractor%20-%20Rectangle%20Rotary.gh>
 
+- Point attractor rectangle rotary with LunchBox Attractor
+- 
+![Point attractor rectangle rotary with LunchBox Attractor](https://github.com/PhamDuyAnh/Rhino3D_Grasshopper/blob/main/Point%20Attractor%20-%20Rectangle%20Rotary%20-%20LunchBox%20Attractor.jpg)
+<https://github.com/PhamDuyAnh/Rhino3D_Grasshopper/blob/main/Point%20Attractor%20-%20Rectangle%20Rotary%20-%20LunchBox%20Attractor.gh>
+
 ### Source
 <https://github.com/PhamDuyAnh/Rhino3D_Grasshopper>.
 
